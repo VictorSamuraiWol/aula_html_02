@@ -1,0 +1,49 @@
+head{}
+body{
+    display: flex;
+    flex-wrap: wrap ;
+    
+}
+h1 {
+    color: chartreuse;
+    background-color: purple;
+    padding: 25px 25px 25px 25px;
+    margin: 20px 20px 20px 20px;
+    border: 30px solid black
+}
+span{
+    color:cyan;
+}
+h2 {
+    color:rgb(218, 150, 3);
+    background-color: greenyellow;
+    padding: 25px 25px 25px 25px;
+    margin: 20px 20px 20px 20px;
+    border: 30px solid black
+
+}
+div {
+    color: red;
+    background-color: aqua;
+    padding: 30px 30px 40px 40px;
+    margin: 10px 10px 10px 10px;
+    border: 20px solid black;
+}
+
+a {
+    color: black;
+}
+
+.caixa {
+    background-color: blue;
+    padding: 10px 10px 5px 5px;
+    margin: 45px 45px 45px 50px
+}
+
+p {
+    color:blueviolet;
+    background-color: brown;
+    padding: 30px 30px 30px 30px;
+    margin: 10px 10px 10px 10px;
+    border: 20px solid black;
+}
